@@ -1,10 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport1.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://di5me.icu:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630568&extension=ts&play_token=ylM7qV9GeH
+
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport1hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 1 HD
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://di5me.icu:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630587&extension=ts&play_token=LKPSg3CKs5
+
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport2hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 2 HD
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-referrer=http://di5me.icu:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630588&extension=ts&play_token=hrNfpnX8OR
+
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport3hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 3 HD
 http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630589&extension=ts&play_token=ywCcqGvxSP
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport4hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 4 HD
