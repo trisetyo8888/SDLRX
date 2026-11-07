@@ -1,111 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/asianfoodchannel.png" group-title="|AS| MALAYSIA",MY - ASIAN FOOD CHANNEL
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854506&extension=ts&play_token=NyZX04BFXn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/foodnetwork.png" group-title="|AS| MALAYSIA",MY - FOOD NETWORK HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854505&extension=ts&play_token=0nGWLAEX40
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discovery.png" group-title="|AS| MALAYSIA",MY - DISCOVERY ASIA [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854504&extension=ts&play_token=2zdHYDI6C2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/CELESTIAL-CLASSIC-MOVIES.png" group-title="|AS| MALAYSIA",MY - CELESTIAL CLASSIC MOVIES [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854503&extension=ts&play_token=z0YzQ2bjXU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/wwenetwork.png" group-title="|AS| MALAYSIA",MY - WWE NETWORK [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854502&extension=ts&play_token=XImq6TJxfe
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TVB-.png" group-title="|AS| MALAYSIA",MY - TVBS ASIA [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854501&extension=ts&play_token=5dyrbP74R7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TVB-XING-HE.png" group-title="|AS| MALAYSIA",MY - TVB XING HE [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854500&extension=ts&play_token=6f1dNBzcxX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TVB-JADE.jpeg" group-title="|AS| MALAYSIA",MY - TVB JADE [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854499&extension=ts&play_token=fe6IZNAK0q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TVB-E-NEWS.jpeg" group-title="|AS| MALAYSIA",MY - TVB E-NEWS [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854498&extension=ts&play_token=Kxl5Whg7JY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TLC-HD.png" group-title="|AS| MALAYSIA",MY - TLC HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854497&extension=ts&play_token=vFoBK9SXe5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-SUN-TV-HD.jpg" group-title="|AS| MALAYSIA",MY - SUN TV HD APAC [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854496&extension=ts&play_token=2QMiyJEZbw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-SHUANG-XING-HD.jpeg" group-title="|AS| MALAYSIA",MY - SHUANG XING HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854495&extension=ts&play_token=b17qFePSIX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/onehd.png" group-title="|AS| MALAYSIA",MY - ONE HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854493&extension=ts&play_token=aJmzR0czoB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-OH!K.jpg" group-title="|AS| MALAYSIA",MY - Oh!K HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854492&extension=ts&play_token=m1DCM1PEkA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/kix.png" group-title="|AS| MALAYSIA",MY - KIX HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854490&extension=ts&play_token=xeVwVz71s8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TVB-CLASSIC.jpeg" group-title="|AS| MALAYSIA",MY - TVB CLASSIC [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854489&extension=ts&play_token=mJrqJBLyVU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-IQIYI.png" group-title="|AS| MALAYSIA",MY - iQIYI HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854488&extension=ts&play_token=13NzqzRhG1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HITS-MOVIES.jpeg" group-title="|AS| MALAYSIA",MY - HITS MOVIES [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854487&extension=ts&play_token=nwsZtAztr2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/historyhd.png" group-title="|AS| MALAYSIA",MY - HISTORY HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854486&extension=ts&play_token=25sVxGEiE1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HGTV-HD.png" group-title="|AS| MALAYSIA",MY - HGTV HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854485&extension=ts&play_token=NPC3Evw2g2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hbohd.png" group-title="|AS| MALAYSIA",MY - HBO HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854483&extension=ts&play_token=DCh1HBoFMQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/dmaxhd.png" group-title="|AS| MALAYSIA",MY - DMAX HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854481&extension=ts&play_token=j8zLQDyZRe
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/disneyjunior.png" group-title="|AS| MALAYSIA",MY - DISNEY JUNIOR [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854480&extension=ts&play_token=rPzuwbhs4v
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoveryhd.png" group-title="|AS| MALAYSIA",MY - DISCOVERY HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854478&extension=ts&play_token=kHtzF4Bl7F
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discoveryscihd.png" group-title="|AS| MALAYSIA",MY - DISCOVERY SCI HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854477&extension=ts&play_token=fDzjf3RGSE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CTI-ASIA.jpg" group-title="|AS| MALAYSIA",MY - CTI ASIA [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854476&extension=ts&play_token=eciKE3rf2z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cinemaxhd.png" group-title="|AS| MALAYSIA",MY - CINEMAX HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854474&extension=ts&play_token=RckYub2ru9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/crimeinvest.png" group-title="|AS| MALAYSIA",MY - CRIME INVESTIGATION HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854473&extension=ts&play_token=QufvNRot3M
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/cgtn.png" group-title="|AS| MALAYSIA",MY - CGTN [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854472&extension=ts&play_token=zVEHvO8ksi
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/CELESTIAL-MOVIES.png" group-title="|AS| MALAYSIA",MY - CELESTIAL MOVIES [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854471&extension=ts&play_token=9nFhKA7yDr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/axnhd.png" group-title="|AS| MALAYSIA",MY - AXN HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854470&extension=ts&play_token=p5rWZHIyo3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-AOD.jpeg" group-title="|AS| MALAYSIA",MY - AOD 352 [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854468&extension=ts&play_token=pN4gc5FAdl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-AOD.jpeg" group-title="|AS| MALAYSIA",MY - AOD 351 [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854467&extension=ts&play_token=nW1Zry6whJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/animalplanethd.png" group-title="|AS| MALAYSIA",MY - ANIMAL PLANET HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854466&extension=ts&play_token=ogtXSFWxzI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-AOD.jpeg" group-title="|AS| MALAYSIA",MY - AOD 353 [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854464&extension=ts&play_token=Eb2WnAjJSF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-XIAO-TAI-YANG.png" group-title="|AS| MALAYSIA",MY - XIAO TAI YANG [H]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854463&extension=ts&play_token=HxH4ackxzw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-WARNA-HD.png" group-title="|AS| MALAYSIA",MY - WARNA HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854462&extension=ts&play_token=QC9wmRwkAU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/starvijay.png" group-title="|AS| MALAYSIA",MY - STAR VIJAY HD APAC [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854459&extension=ts&play_token=DSfyfEe7Hs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-OASIS-HD.png" group-title="|AS| MALAYSIA",MY - OASIS HD [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854456&extension=ts&play_token=ruvpJDCtXH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-AWANI.png" group-title="|AS| MALAYSIA",MY - AWANI [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854452&extension=ts&play_token=66w8JtfABC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-CRICKET.png" group-title="|AS| MALAYSIA",MY - CRICKET [SP]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854451&extension=ts&play_token=epYF7p13IX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport1.png" group-title="|AS| MALAYSIA",MY - SUPERSPORT 1 HD [SP]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854450&extension=ts&play_token=4VSpCDz36f
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport4.png" group-title="|AS| MALAYSIA",MY - SUPERSPORT 4 HD [SP]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854449&extension=ts&play_token=Ad9Td4EiHT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport3.png" group-title="|AS| MALAYSIA",MY - SUPERSPORT 3 HD [SP]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854448&extension=ts&play_token=xkri9phEqE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport2.png" group-title="|AS| MALAYSIA",MY - SUPERSPORT 2 HD [SP]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854447&extension=ts&play_token=KwvkwTFoER
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-CRICKET.png" group-title="|AS| MALAYSIA",MY - ASTRO CRICKET HD
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854446&extension=ts&play_token=kMNnKOpAMX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zeetamilhd.jpg" group-title="|AS| MALAYSIA",MY - ZEE TAMIL HD APAC [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854445&extension=ts&play_token=HDK7A1EJQP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CNA.jpg" group-title="|AS| MALAYSIA",MY - CNA [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854444&extension=ts&play_token=JhAr4ITHx7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HITS.png" group-title="|AS| MALAYSIA",MY - HITS [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854443&extension=ts&play_token=KJCI3Pajgq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RUGBY-PASS-TV.png" group-title="|AS| MALAYSIA",MY - RUGBY PASS TV [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854442&extension=ts&play_token=IQD8KYkqTv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASTRO-AURA.png" group-title="|AS| MALAYSIA",MY - AURA [ASTRO]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854439&extension=ts&play_token=Ud4IurOG6q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TVN.png" group-title="|AS| MALAYSIA",MY - TVN [H]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854438&extension=ts&play_token=OA889Tkz62
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TVN-MOVIES.png" group-title="|AS| MALAYSIA",MY - TVN MOVIES [H]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854437&extension=ts&play_token=OfjNgMULVk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nickelodeonhd.png" group-title="|AS| MALAYSIA",MY - NICKELODEON [H]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854434&extension=ts&play_token=LbnwTboFmT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BERNAMA-TV.png" group-title="|AS| MALAYSIA",MY - BERNAMA NEWS [H]
-http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=854433&extension=ts&play_token=4a96XFV8f5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport1.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 1 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630568&extension=ts&play_token=ylM7qV9GeH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport1hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 1 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630587&extension=ts&play_token=LKPSg3CKs5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport2hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 2 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630588&extension=ts&play_token=hrNfpnX8OR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport3hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 3 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630589&extension=ts&play_token=ywCcqGvxSP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport4hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 4 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630590&extension=ts&play_token=KCmIWqzeHt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport5hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 5 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630591&extension=ts&play_token=FvwQX1SeDG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport6hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 6 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630592&extension=ts&play_token=zpPrXMzU7R
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport7hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 7 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630593&extension=ts&play_token=xK30ResC6I
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport8hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 8 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630594&extension=ts&play_token=9Lsw8RUtn7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport9hd.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 9 HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630595&extension=ts&play_token=zzGEsuMK94
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SKY-SELECT.png" group-title="|NZ| NEW ZEALAND",NZ - SKY SPORT 10 SELECT HD
+http://di5me.icu:80/play/live.php?mac=00:1A:79:B6:47:E7&stream=630596&extension=ts&play_token=MIhzzzgMch
+
+
+
+
+
+
